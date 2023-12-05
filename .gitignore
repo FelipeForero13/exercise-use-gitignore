@@ -1,6 +1,6 @@
 #Iniciando con Z
-z*
+/z*
 #Extension .env
-*.env
+/*.env
 #Carpeta Atifacts
-artifacts/
+artifacts/*
