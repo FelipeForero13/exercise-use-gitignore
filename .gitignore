@@ -1,4 +1,3 @@
-node_modules/
-z*
-*.env
-artifacts
+node_modules/z*
+node_modules/*.env
+/artifacts
