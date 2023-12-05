@@ -1,3 +1,6 @@
+#Iniciando con Z
 z*
+#Extension .env
 *.env
+#Carpeta Atifacts
 artifacts/
